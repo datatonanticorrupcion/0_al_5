@@ -1,6 +1,9 @@
 # dataton
 Este repositorio es lo hecho por el equipo 0 al 5, subimos lo hecho en cuanto a analisis fiscal, compranet y analisis geoespacial con powerbi
 
+Analisis fiscal
+Archivo 0_al_5.ipynb
+
 Referencia a lo hecho en compranet
 https://github.com/guivaloz/DatatonAnticorrupcion
 
